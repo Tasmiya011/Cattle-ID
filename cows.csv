@@ -1,0 +1,4 @@
+id,name,owner,vaccination,insurance,breed,last_checkup
+1,Lakshmi,Ramesh,2026-01-10,Active,Gir,2026-01-10
+2,Ganga,Suresh,2026-02-15,Expired,Sahiwal,2026-02-15
+3,Kali,Mahesh,2026-03-20,Active,Jersey,2026-03-20
